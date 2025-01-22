@@ -1,2 +1,5 @@
 # IoT
 This repository is dedicated for IoT projects
+
+# Gesture Recognition using Federated Machine Learning for IoT devices
+The use of machine intelligence is increasing exponentially in IoT devices. On-device training with a Federated Machine Learning (FML) approach enables collaborative model training across multiple devices, preserving user data privacy and minimizing communication overhead. In this project, one of our goals is to utilize embedded deep learning models tailored for resource-constrained IoT devices. By leveraging sensor data, the project effectively recognizes gestures such as left-right, up-down, circular, and idle motions. Furthermore, we plan to integrate gesture recognition with on-device training and FML. It will enhance prediction accuracy by aggregating outputs from multiple models, improving system reliability. Therefore, the system provides a robust and secure solution for applications in smart home automation, wearable devices, agriculture, and industrial IoT.
